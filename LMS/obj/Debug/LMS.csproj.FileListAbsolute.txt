@@ -1,0 +1,8 @@
+c:\users\vadha\documents\visual studio 2010\Projects\LMS\LMS\bin\LMS.dll
+c:\users\vadha\documents\visual studio 2010\Projects\LMS\LMS\bin\LMS.pdb
+c:\users\vadha\documents\visual studio 2010\Projects\LMS\LMS\obj\Debug\LMS.dll
+c:\users\vadha\documents\visual studio 2010\Projects\LMS\LMS\obj\Debug\LMS.pdb
+E:\zhr_projects\LMS\LMS\bin\LMS.dll
+E:\zhr_projects\LMS\LMS\bin\LMS.pdb
+E:\zhr_projects\LMS\LMS\obj\Debug\LMS.dll
+E:\zhr_projects\LMS\LMS\obj\Debug\LMS.pdb

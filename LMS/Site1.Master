@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="LMS.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="style.css" rel="stylesheet" type="text/css" /> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <div class="header">
+            <h1>Library Management System</h1>
+            <ul class="nav">
+                <li><a href="books.aspx">Book Management</a></li>
+                <li><a href="user.aspx">User Management</a></li>
+                <li><a href="Borrow.aspx">Borrowing System</a></li>
+                <li><a href="search_books.aspx">Search Book</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="content">
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
